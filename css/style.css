@@ -125,13 +125,13 @@ p{
     margin-top: 35px;
 }
 .exp1{
-    border-left:4px solid;
-    border-image: linear-gradient(180deg , rgb(211, 32, 157) ,tomato);
+    border-left:7px solid;
+    border-image: linear-gradient(180deg ,rgb(71, 74, 255) ,#11e33a);
     border-image-slice: 5;
 }
 .exp2{
-    border-left:4px solid;
-    border-image: linear-gradient(180deg,red,rgb(71, 74, 255));
+    border-left:7px solid;
+    border-image: linear-gradient(180deg,#11e33a,rgb(71, 74, 255));
     border-image-slice: 5;
 
 }
