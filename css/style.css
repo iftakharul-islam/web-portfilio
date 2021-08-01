@@ -30,7 +30,7 @@ body{
     font-size: 48px;
 }
 .name-highlight{
-    color:orange;
+    color:#11e33a;
 }
 .left-side,
 .right-side{
@@ -45,7 +45,7 @@ body{
 .cta-button{
     text-decoration: none;
     padding: 12px 20px;
-    background:rgb(252, 73, 41);
+    background:#11e33a;
     color: white;
     font-weight: bold;
     margin-top: 10px;
@@ -106,7 +106,7 @@ p{
     width: 300px;
     padding: 3px;
     margin-top: 5px;
-    background: tomato;
+    background: #11e33a;
    margin-bottom: 38px;
 
 }
@@ -121,7 +121,7 @@ p{
     margin: 10px 40px;
 }
 .exp-highlight{
-    color: tomato;
+    color: #11a12e;
     margin-top: 35px;
 }
 .exp1{
